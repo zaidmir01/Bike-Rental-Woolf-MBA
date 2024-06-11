@@ -1,4 +1,4 @@
-# Bike-Rental-Woolf-MBA
+# bike rental assessment woolf
 This repository contains a Python notebook for predicting bike demand using multiple linear regression. The project aims to help BoomBikes understand the factors affecting the demand for their shared bikes.
 
 ## Project Overview
